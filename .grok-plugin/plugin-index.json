@@ -410,8 +410,8 @@
       }
     },
     "kuro": {
-      "sha": "8c6aba894884f711a09e91e18b55b27d616fdf11",
-      "version": "1.0.0",
+      "sha": "a1caa9909d314930ae846ed31fe78f6506eaca04",
+      "version": "1.0.3",
       "components": {
         "mcpServers": [
           {
